@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#I'm vignesh
+<b>I'm vignesh</b>
 
 # 💫 About Me:
 🌱 I’m currently learning AWS<br>💬 Ask me about React<br>📫 How to reach me vigneshparamraj@gmail.com
