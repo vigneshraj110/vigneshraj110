@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3><b>I'm vignesh Full stack web developer</b></h3>
+<h3><b>I'm vignesh Full stack developer</b></h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Dart<br><br>💬 Ask me about Full-Stack Web development<br><br>📫 How to reach me vigneshparamraj@gmail.com
