@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3><b>I'm vignesh Full stack developer</b></h3>
+<h3><b>I'm vignesh Software Engineer</b></h3>
 
 # 💫 About Me:
 🔭 I’m currently working at Populus Empowerment Network<br><br>
