@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3><b>I'm vignesh Software Engineer</b></h3>
 
 # 💫 About Me:
-🔭 I’m currently working at Populus Empowerment Network<br><br>
+
 💬 Ask me about Full-Stack Web development<br><br>📫 How to reach me vigneshparamraj@gmail.com
 
 
